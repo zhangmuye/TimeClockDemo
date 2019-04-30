@@ -10,6 +10,9 @@ import android.view.View;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * 自定义绘制时钟
+ */
 public class TimeClock extends View {
 
     //外圆画笔
